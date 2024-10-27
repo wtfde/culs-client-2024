@@ -1,32 +1,32 @@
 author: Ing. Josef "pepe" Pospíšil
-date:2024/10/26
+date: 2024-10-29
 title: Intro
 ---
 ## Late 2024 Edition
-# Future client side
+# Future Client Side
 ## Around the world and back
 ---
-# Who am I?
+## Who am I?
 * Father of three
 * World citizen
 * Computer scientist
 ---
-# What am I affraid of?
+## What am I affraid of?
 * WWIII
 * AI Bake
 * Black Swan
 ---
-# Who are you?
+## Who are you?
 * Name & Origin
 * Diploma thesis
 * Experience
 ---
-# Technique
+## Technique
 * Flyby style
 * My experiences
 * Your needs
 ---
-# Organization
+## Organization
 * Attendance or Battle
 * Theory -> Hands on
 * Project evaluation on Friday
@@ -37,7 +37,7 @@ title: Intro
 * Project related
 * Slow me down
 ---
-## Project
+# Project
 ---
 ## Requirements
 * Individual
@@ -51,17 +51,17 @@ title: Intro
 ---
 # Evaluation will be very biased
 ---
-# Points' distribution
+## Points' distribution
 * Tasks 20%
 * Project 70%
 * Test 10%
 ---
 # ChatGPT?
 ---
-# Any questions
+## Any questions
 > Speak now, or be silent for the rest of the week.
 ---
-# Show yourselves!
-I would love to see your works.
+## Show yourselves!
+> I would love to see your works.
 ---
 # Let's Go!
