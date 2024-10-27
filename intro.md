@@ -17,15 +17,51 @@ title: Intro
 * Black Swan
 ---
 # Who are you?
+* Name & Origin
+* Diploma thesis
+* Experience
+---
+# Technique
+* Flyby style
+* My experiences
+* Your needs
 ---
 # Organization
 * Attendance or Battle
 * Theory -> Hands on
 * Project evaluation on Friday
 ---
-# Topics
-* Tools
-* Content
-* Style
+## Hands On
+* Simple examples
+* Live projects
+* Project related
+* Slow me down
 ---
-# Let's go
+## Project
+---
+## Requirements
+* Individual
+* Repository
+* Glitch
+---
+## Present and script
+* Presentation example
+* I will give you HTML
+* You will do the rest
+---
+# Evaluation will be very biased
+---
+# Points' distribution
+* Tasks 20%
+* Project 70%
+* Test 10%
+---
+# ChatGPT?
+---
+# Any questions
+> Speak now, or be silent for the rest of the week.
+---
+# Show yourselves!
+I would love to see your works.
+---
+# Let's Go!
