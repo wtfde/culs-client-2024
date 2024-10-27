@@ -13,13 +13,13 @@ title: Intro
 ---
 ## What am I affraid of?
 * WWIII
-* AI Bake
+* AI Fever
 * Black Swan
 ---
 ## Who are you?
 * Name & Origin
-* Diploma thesis
 * Experience
+* Diploma thesis
 ---
 ## Technique
 * Flyby style

@@ -14,7 +14,7 @@ title: Hypermedia
 ---
 ## HTTP protocol
 * Evolution
-* Structure
+* Structure[https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview#http_messages]
 ---
 ## HTTP statuses
 * Numbers
@@ -24,3 +24,12 @@ title: Hypermedia
 * Browser
 * All
 * Live Screen
+---
+## SSE
+* Server Sent Events[https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events]
+* One way only
+* Compose with requests
+---
+## Data Star
+* Evolution
+* More server side[https://data-star.dev/]
