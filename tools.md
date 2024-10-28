@@ -27,7 +27,7 @@ title: Tools
 * Not only code
 ---
 ## Options
-* Git
+* Git[https://git-scm.com/]
 * Mercurial
 * New kids
 ---
@@ -114,7 +114,7 @@ title: Tools
 * Hands On
 ---
 ## Documentation
-* Mozilla Developer Network
+* Mozilla Developer Network[https://developer.mozilla.org/en-US/]
 * All about web & more
 * Hands On
 ---

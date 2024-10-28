@@ -1,5 +1,5 @@
 author: Ing. Josef "pepe" Pospíšil
-date: 2024-10-29
+date: 2024-10-30
 title: Presentation
 ---
 ## Late 2024 Edition
