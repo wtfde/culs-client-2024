@@ -9,7 +9,7 @@ title: Intro
 ## Who am I?
 * Father of three
 * World citizen
-* Computer scientist
+* Better computer scientist
 ---
 ## What am I affraid of?
 * WWIII
