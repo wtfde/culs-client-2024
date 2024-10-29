@@ -33,7 +33,7 @@ title: Tools
 ---
 ## Git
 * Most used
-* Best documentation
+* Best documentation[https://git-scm.com/book/en/v2]
 * GitHub[https://github.com/]
 ---
 ## GitHub
@@ -118,4 +118,6 @@ title: Tools
 * All about web & more
 * Hands On
 ---
-## (break)
+# Glitch
+* Web IDE
+* Your project
